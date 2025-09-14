@@ -372,10 +372,6 @@ class LoadingScreen {
                 }, step.delay);
             });
         }
-        
-        setTimeout(() => {
-            this.hide();
-        }, 500);
     }
 }
 

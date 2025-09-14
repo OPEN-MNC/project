@@ -193,7 +193,7 @@ class ContentRenderer {
                 phoneEl.href = `tel:${personal.phone}`;
             }
             if (linkedinEl) {
-                linkedinEl.textContent = 'linkedin.com/in/amitbarai-developer';
+                linkedinEl.textContent = 'linkedin.com/in/amit-barai-developer';
                 linkedinEl.href = personal.linkedin;
             }
         }

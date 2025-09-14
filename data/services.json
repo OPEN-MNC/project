@@ -3,317 +3,233 @@
     {
       "id": "mobile-app-development",
       "title": "Mobile App Development",
-      "description": "Custom mobile applications for iOS and Android using Flutter framework with modern UI/UX design and robust functionality.",
+      "description": "High-quality mobile applications for iOS and Android using Flutter with modern UI/UX, offline support, and smooth performance.",
       "icon": "📱",
       "category": "development",
       "featured": true,
       "price": {
-        "starting": 1500,
+        "starting": 199,
         "currency": "USD",
         "type": "project"
       },
-      "duration": "4-12 weeks",
+      "duration": "2-8 weeks",
       "deliverables": [
         "Cross-platform mobile application",
-        "Source code and documentation",
-        "App store deployment",
-        "3 months post-launch support",
+        "Source code & documentation",
+        "Play Store & App Store deployment",
+        "3 months free support",
         "Performance optimization"
       ],
       "technologies": [
         "Flutter",
         "Dart",
         "Firebase",
-        "GetX/Provider",
-        "RESTful APIs"
+        "REST APIs",
+        "State Management (GetX/Provider)"
       ],
       "features": [
         "Cross-platform compatibility",
-        "Modern UI/UX design",
-        "Real-time data synchronization",
+        "Attractive & responsive UI/UX",
+        "Real-time data sync",
         "Push notifications",
         "Offline functionality",
+        "In-app purchases",
         "App store optimization",
-        "Performance monitoring",
-        "Security implementation"
+        "Security & performance"
       ],
       "process": [
-        "Requirements analysis and planning",
-        "UI/UX design and prototyping",
-        "Development and testing",
-        "App store submission",
-        "Launch and support"
+        "Requirement analysis",
+        "UI/UX prototyping",
+        "Development & testing",
+        "Deployment",
+        "Post-launch support"
       ]
     },
     {
-      "id": "ui-ux-design",
-      "title": "UI/UX Design",
-      "description": "User-centered design solutions that create intuitive and engaging mobile experiences with modern design principles.",
-      "icon": "🎨",
-      "category": "design",
+      "id": "custom-ai-software",
+      "title": "Custom AI Software",
+      "description": "Tailor-made AI-driven software solutions such as voice cloning, intelligent chatbots, and automation tools designed for businesses.",
+      "icon": "🤖",
+      "category": "software",
       "featured": true,
       "price": {
-        "starting": 800,
+        "starting": 249,
         "currency": "USD",
         "type": "project"
       },
-      "duration": "2-6 weeks",
+      "duration": "3-10 weeks",
       "deliverables": [
-        "User research and personas",
-        "Wireframes and prototypes",
-        "High-fidelity designs",
-        "Design system and guidelines",
-        "Interactive prototypes"
+        "Custom AI solution",
+        "Source code & APIs",
+        "Integration support",
+        "Training & documentation",
+        "Free updates (1 month)"
       ],
       "technologies": [
-        "Figma",
-        "Adobe XD",
-        "Sketch",
-        "Principle",
-        "InVision"
+        "Python",
+        "TensorFlow",
+        "Flutter + ML Kit",
+        "OpenAI APIs",
+        "Cloud Platforms"
       ],
       "features": [
-        "User research and analysis",
-        "Information architecture",
-        "Wireframing and prototyping",
-        "Visual design and branding",
-        "Usability testing",
-        "Design system creation",
-        "Responsive design",
-        "Accessibility compliance"
+        "Voice & speech AI",
+        "Natural language chatbots",
+        "Smart automation",
+        "Predictive analytics",
+        "Custom dashboards",
+        "Cross-platform integration"
       ],
       "process": [
-        "Discovery and research",
-        "Information architecture",
-        "Wireframing and prototyping",
-        "Visual design",
-        "Testing and iteration"
-      ]
-    },
-    {
-      "id": "firebase-integration",
-      "title": "Firebase Integration",
-      "description": "Complete Firebase backend setup including authentication, database, analytics, and cloud functions for scalable mobile apps.",
-      "icon": "🔥",
-      "category": "backend",
-      "featured": true,
-      "price": {
-        "starting": 600,
-        "currency": "USD",
-        "type": "project"
-      },
-      "duration": "1-3 weeks",
-      "deliverables": [
-        "Firebase project setup",
-        "Authentication system",
-        "Database configuration",
-        "Analytics implementation",
-        "Cloud functions (if needed)"
-      ],
-      "technologies": [
-        "Firebase Auth",
-        "Firestore",
-        "Firebase Analytics",
-        "Cloud Functions",
-        "Firebase Storage"
-      ],
-      "features": [
-        "User authentication",
-        "Real-time database",
-        "File storage and management",
-        "Push notifications",
-        "Analytics and reporting",
-        "Remote configuration",
-        "Crash reporting",
-        "Performance monitoring"
-      ],
-      "process": [
-        "Requirements assessment",
-        "Firebase project setup",
-        "Service configuration",
-        "Integration and testing",
-        "Documentation and handover"
-      ]
-    },
-    {
-      "id": "app-optimization",
-      "title": "App Performance Optimization",
-      "description": "Comprehensive app performance analysis and optimization to improve speed, reduce crashes, and enhance user experience.",
-      "icon": "⚡",
-      "category": "optimization",
-      "featured": false,
-      "price": {
-        "starting": 500,
-        "currency": "USD",
-        "type": "project"
-      },
-      "duration": "1-2 weeks",
-      "deliverables": [
-        "Performance audit report",
-        "Optimized codebase",
-        "Memory usage improvements",
-        "Loading time reduction",
-        "Crash fixes and stability"
-      ],
-      "technologies": [
-        "Flutter DevTools",
-        "Firebase Performance",
-        "Crashlytics",
-        "Memory Profiler",
-        "Network Analyzer"
-      ],
-      "features": [
-        "Code optimization",
-        "Memory leak detection",
-        "Network optimization",
-        "Image compression",
-        "Database query optimization",
-        "UI rendering improvements",
-        "Battery usage optimization",
-        "Crash analysis and fixes"
-      ],
-      "process": [
-        "Performance audit",
-        "Issue identification",
-        "Optimization implementation",
-        "Testing and validation",
-        "Performance monitoring setup"
-      ]
-    },
-    {
-      "id": "app-store-deployment",
-      "title": "App Store Deployment",
-      "description": "Complete app store submission process for both Google Play Store and Apple App Store with optimization and compliance.",
-      "icon": "🚀",
-      "category": "deployment",
-      "featured": false,
-      "price": {
-        "starting": 300,
-        "currency": "USD",
-        "type": "project"
-      },
-      "duration": "1-2 weeks",
-      "deliverables": [
-        "App store listings",
-        "Optimized app metadata",
-        "Screenshots and graphics",
-        "Compliance documentation",
-        "Submission and approval"
-      ],
-      "technologies": [
-        "Google Play Console",
-        "App Store Connect",
-        "Fastlane",
-        "App Store Optimization",
-        "Analytics Setup"
-      ],
-      "features": [
-        "App store optimization",
-        "Metadata optimization",
-        "Screenshot creation",
-        "Compliance review",
-        "Submission management",
-        "Review response handling",
-        "Release management",
-        "Analytics setup"
-      ],
-      "process": [
-        "App preparation and testing",
-        "Store listing creation",
-        "Compliance review",
-        "Submission and monitoring",
-        "Launch and optimization"
+        "Consultation & requirement study",
+        "Prototype development",
+        "AI integration & training",
+        "Testing & deployment",
+        "Support & improvements"
       ]
     },
     {
       "id": "consulting",
       "title": "Technical Consulting",
-      "description": "Expert consultation on mobile app architecture, technology stack selection, and development best practices.",
+      "description": "Expert guidance for startups, teams, or businesses to choose the right tech stack, design system architecture, and scale efficiently.",
       "icon": "💡",
       "category": "consulting",
-      "featured": false,
+      "featured": true,
       "price": {
-        "starting": 100,
+        "starting": 49,
         "currency": "USD",
         "type": "hour"
       },
       "duration": "Flexible",
       "deliverables": [
-        "Technical assessment",
-        "Architecture recommendations",
-        "Technology stack guidance",
-        "Best practices documentation",
-        "Implementation roadmap"
+        "Architecture review",
+        "Tech stack recommendations",
+        "Scalability roadmap",
+        "Code quality feedback",
+        "Security & performance tips"
       ],
       "technologies": [
         "Flutter",
         "React Native",
-        "Native Development",
-        "Backend Technologies",
-        "Cloud Services"
+        "Firebase",
+        "Cloud Services",
+        "Backend APIs"
       ],
       "features": [
-        "Technology assessment",
+        "1-on-1 live consulting",
         "Architecture planning",
         "Code review",
-        "Performance analysis",
-        "Security audit",
-        "Scalability planning",
+        "Performance audits",
+        "Security best practices",
+        "Scaling strategy",
         "Team mentoring",
-        "Project planning"
+        "Agile development guidance"
       ],
       "process": [
         "Initial consultation",
-        "Technical assessment",
-        "Recommendations preparation",
+        "Project/Code review",
+        "Detailed recommendations",
         "Strategy presentation",
-        "Implementation support"
+        "Ongoing support"
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing Services",
+      "description": "Affordable digital marketing campaigns to boost your brand, increase reach, and attract more customers online.",
+      "icon": "📢",
+      "category": "marketing",
+      "featured": false,
+      "price": {
+        "starting": 129,
+        "currency": "USD",
+        "type": "project"
+      },
+      "duration": "2-4 weeks",
+      "deliverables": [
+        "Social media setup",
+        "Ad campaigns",
+        "SEO optimization",
+        "Content strategy",
+        "Analytics reports"
+      ],
+      "technologies": [
+        "Google Ads",
+        "Meta Ads (FB/Instagram)",
+        "SEO Tools",
+        "Email Marketing",
+        "Analytics Platforms"
+      ],
+      "features": [
+        "Social media marketing",
+        "Paid ads campaigns",
+        "SEO optimization",
+        "Email campaigns",
+        "Content creation",
+        "Brand awareness growth",
+        "Conversion optimization"
+      ],
+      "process": [
+        "Market research",
+        "Campaign setup",
+        "Execution & optimization",
+        "Weekly reports",
+        "Results & improvements"
       ]
     }
   ],
   "packages": [
     {
-      "name": "Startup Package",
-      "description": "Perfect for startups and small businesses looking to launch their first mobile app",
-      "price": 2500,
+      "name": "Starter Package",
+      "description": "Perfect for individuals and startups launching their first app",
+      "price": 799,
       "currency": "USD",
-      "duration": "6-8 weeks",
+      "duration": "4-6 weeks",
       "services": [
         "mobile-app-development",
-        "ui-ux-design",
-        "firebase-integration",
         "app-store-deployment"
       ],
       "features": [
-        "Cross-platform mobile app",
-        "Modern UI/UX design",
-        "Firebase backend setup",
-        "App store deployment",
+        "Basic cross-platform app",
+        "Play Store & App Store submission",
+        "1 month support"
+      ]
+    },
+    {
+      "name": "Business Growth Package",
+      "description": "Best for businesses who want app + marketing boost",
+      "price": 1499,
+      "currency": "USD",
+      "duration": "6-10 weeks",
+      "services": [
+        "mobile-app-development",
+        "digital-marketing",
+        "consulting"
+      ],
+      "features": [
+        "Custom mobile app",
+        "Digital marketing campaign",
+        "Tech consulting",
         "3 months support"
       ]
     },
     {
-      "name": "Enterprise Package",
-      "description": "Comprehensive solution for established businesses with complex requirements",
-      "price": 5000,
+      "name": "AI-Powered Enterprise Package",
+      "description": "Comprehensive AI + App solution for enterprises",
+      "price": 2999,
       "currency": "USD",
-      "duration": "10-16 weeks",
+      "duration": "8-16 weeks",
       "services": [
+        "custom-ai-software",
         "mobile-app-development",
-        "ui-ux-design",
-        "firebase-integration",
-        "app-optimization",
-        "app-store-deployment",
-        "consulting"
+        "consulting",
+        "digital-marketing"
       ],
       "features": [
-        "Advanced mobile application",
-        "Custom UI/UX design",
-        "Complete backend solution",
-        "Performance optimization",
-        "App store deployment",
-        "6 months support",
-        "Technical consulting"
+        "Enterprise-grade AI integration",
+        "Full mobile app solution",
+        "Marketing & growth strategy",
+        "6 months support"
       ]
     }
   ]

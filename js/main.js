@@ -1,3 +1,4 @@
+
 // Main application controller
 class App {
     constructor() {
@@ -13,6 +14,7 @@ class App {
     }
     
     async init() {
+        console.log("Application starting...");
         try {
             // Mark performance start
             window.config.performance.mark('app-init-start');
@@ -180,6 +182,9 @@ class App {
         });
         
         document.dispatchEvent(readyEvent);
+        if (window.loadingScreen) {
+            window.loadingScreen.hide();
+        }
     }
     
     handleInitializationError(error) {

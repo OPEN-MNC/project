@@ -274,7 +274,7 @@ function App() {
                 </button>
               </div>
               <div className="flex mt-8 space-x-4">
-                <a href="https://www.linkedin.com/in/amitbarai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
+                <a href="https://www.linkedin.com/in/amit-barai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
                   <Linkedin className="h-6 w-6" />
                 </a>
                 <a href="mailto:amitbarai.imt@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
@@ -361,7 +361,7 @@ function App() {
                   <div className="p-2 rounded-full bg-gray-800 group-hover:bg-gradient-to-r group-hover:from-cyan-500 group-hover:to-purple-600 transition-colors duration-300">
                     <Linkedin className="h-5 w-5 text-cyan-400" />
                   </div>
-                  <a href="https://www.linkedin.com/in/amitbarai-developer/" target="_blank" rel="noopener noreferrer" className="ml-3 text-sm md:text-base hover:text-cyan-400 transition-colors">linkedin.com/in/amitbarai-developer</a>
+                  <a href="https://www.linkedin.com/in/amit-barai-developer/" target="_blank" rel="noopener noreferrer" className="ml-3 text-sm md:text-base hover:text-cyan-400 transition-colors">linkedin.com/in/amit-barai-developer</a>
                 </div>
               </div>
               
@@ -656,7 +656,7 @@ function App() {
                     <Linkedin className="h-6 w-6 text-cyan-400" />
                   </div>
                   <h3 className="text-lg font-medium mb-2">LinkedIn</h3>
-                  <a href="https://www.linkedin.com/in/amitbarai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">linkedin.com/in/amitbarai-developer</a>
+                  <a href="https://www.linkedin.com/in/amit-barai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">linkedin.com/in/amit-barai-developer</a>
                 </div>
               </div>
               
@@ -732,7 +732,7 @@ function App() {
             </div>
             
             <div className="flex space-x-6">
-              <a href="https://www.linkedin.com/in/amitbarai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
+              <a href="https://www.linkedin.com/in/amit-barai-developer/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-cyan-400 transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="mailto:amitbarai.imt@gmail.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
