@@ -1,0 +1,71 @@
+{
+  "experiences": [
+    {
+      "id": "blueberry-web-solution",
+      "company": "Blueberry Web Solution Pvt Ltd",
+      "position": "Flutter Developer",
+      "location": "Remote",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "current": true,
+      "type": "full-time",
+      "description": "Leading end-to-end development of iOS/Android applications with focus on advanced UI/UX design and deployment strategies.",
+      "responsibilities": [
+        "Led end-to-end development of iOS/Android apps, from advanced UI/UX design to deployment, managing projects independently",
+        "Developed and deployed 4+ major apps, including KivoVPN and Translator AI with offline translation using advanced Google ML Kit and Firebase services",
+        "Integrated state management tools like GetX, Provider, and Hive for efficient app functionality; utilized Firebase Analytics and Remote Config for real-time user behavior tracking and dynamic content updates",
+        "Implemented dynamic in-app purchases via RevenueCat and Superwall, enhancing app monetization",
+        "Ensured successful deployment on Play Store and App Store, optimizing performance, compliance, and leveraging Google AdMob for ad integration"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "GetX",
+        "Provider",
+        "Hive",
+        "RevenueCat",
+        "Superwall",
+        "Google ML Kit",
+        "Google AdMob"
+      ],
+      "achievements": [
+        "Successfully launched 4+ mobile applications",
+        "Implemented advanced offline translation features",
+        "Achieved 100% client satisfaction rate",
+        "Optimized app performance by 40%"
+      ]
+    },
+    {
+      "id": "mould-innovation",
+      "company": "Mould Innovation",
+      "position": "Junior Flutter Developer",
+      "location": "Remote",
+      "startDate": "2023-02-01",
+      "endDate": "2023-10-31",
+      "current": false,
+      "type": "full-time",
+      "description": "Focused on developing responsive UI layouts and integrating RESTful APIs for mobile applications.",
+      "responsibilities": [
+        "Developed and implemented beautiful, responsive UI layouts using Flutter, ensuring cross-platform compatibility",
+        "Worked on GTPL, a broadband provider app, and Pharmabag, a B2B platform for medicine wholesalers",
+        "Built and optimized complex UI components with a focus on user experience and performance",
+        "Integrated RESTful APIs to enable seamless data flow between the mobile app and backend services"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "RESTful APIs",
+        "Provider",
+        "Firebase",
+        "Material Design"
+      ],
+      "achievements": [
+        "Delivered 2 major client projects on time",
+        "Improved UI performance by 30%",
+        "Successfully integrated complex API systems",
+        "Received positive feedback for code quality"
+      ]
+    }
+  ]
+}

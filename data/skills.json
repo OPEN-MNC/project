@@ -1,0 +1,190 @@
+{
+  "categories": [
+    {
+      "name": "Mobile Development",
+      "icon": "📱",
+      "skills": [
+        {
+          "name": "Flutter",
+          "level": 95,
+          "category": "framework",
+          "description": "Cross-platform mobile app development framework"
+        },
+        {
+          "name": "Dart",
+          "level": 90,
+          "category": "language",
+          "description": "Programming language optimized for building mobile apps"
+        },
+        {
+          "name": "Android Development",
+          "level": 85,
+          "category": "platform",
+          "description": "Native Android app development"
+        },
+        {
+          "name": "iOS Development",
+          "level": 80,
+          "category": "platform",
+          "description": "Native iOS app development"
+        }
+      ]
+    },
+    {
+      "name": "State Management",
+      "icon": "⚡",
+      "skills": [
+        {
+          "name": "GetX",
+          "level": 85,
+          "category": "state-management",
+          "description": "Powerful state management solution for Flutter"
+        },
+        {
+          "name": "Provider",
+          "level": 85,
+          "category": "state-management",
+          "description": "Recommended state management approach for Flutter"
+        },
+        {
+          "name": "Hive",
+          "level": 80,
+          "category": "database",
+          "description": "Lightweight and fast key-value database"
+        },
+        {
+          "name": "Shared Preferences",
+          "level": 90,
+          "category": "storage",
+          "description": "Simple data persistence solution"
+        }
+      ]
+    },
+    {
+      "name": "Backend & Services",
+      "icon": "🔥",
+      "skills": [
+        {
+          "name": "Firebase",
+          "level": 90,
+          "category": "backend",
+          "description": "Complete backend-as-a-service platform"
+        },
+        {
+          "name": "Firebase Analytics",
+          "level": 85,
+          "category": "analytics",
+          "description": "App analytics and user behavior tracking"
+        },
+        {
+          "name": "Firebase Remote Config",
+          "level": 80,
+          "category": "configuration",
+          "description": "Dynamic app configuration management"
+        },
+        {
+          "name": "Push Notifications",
+          "level": 85,
+          "category": "messaging",
+          "description": "Real-time messaging and notifications"
+        },
+        {
+          "name": "RESTful APIs",
+          "level": 80,
+          "category": "api",
+          "description": "API integration and consumption"
+        }
+      ]
+    },
+    {
+      "name": "UI/UX & Design",
+      "icon": "🎨",
+      "skills": [
+        {
+          "name": "UI/UX Design",
+          "level": 85,
+          "category": "design",
+          "description": "User interface and experience design"
+        },
+        {
+          "name": "Material Design",
+          "level": 90,
+          "category": "design-system",
+          "description": "Google's design system implementation"
+        },
+        {
+          "name": "Custom Animations",
+          "level": 75,
+          "category": "animation",
+          "description": "Creating engaging UI animations"
+        },
+        {
+          "name": "Responsive Design",
+          "level": 85,
+          "category": "design",
+          "description": "Adaptive layouts for different screen sizes"
+        }
+      ]
+    },
+    {
+      "name": "Third-Party Integration",
+      "icon": "🔌",
+      "skills": [
+        {
+          "name": "RevenueCat",
+          "level": 80,
+          "category": "monetization",
+          "description": "In-app purchase and subscription management"
+        },
+        {
+          "name": "Superwall",
+          "level": 75,
+          "category": "monetization",
+          "description": "Paywall and subscription optimization"
+        },
+        {
+          "name": "Google AdMob",
+          "level": 85,
+          "category": "advertising",
+          "description": "Mobile advertising platform integration"
+        },
+        {
+          "name": "Google ML Kit",
+          "level": 80,
+          "category": "machine-learning",
+          "description": "On-device machine learning capabilities"
+        }
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "icon": "🛠️",
+      "skills": [
+        {
+          "name": "Git",
+          "level": 85,
+          "category": "version-control",
+          "description": "Version control and collaboration"
+        },
+        {
+          "name": "Android Studio",
+          "level": 90,
+          "category": "ide",
+          "description": "Primary development environment"
+        },
+        {
+          "name": "VS Code",
+          "level": 85,
+          "category": "ide",
+          "description": "Lightweight code editor"
+        },
+        {
+          "name": "App Performance Optimization",
+          "level": 80,
+          "category": "optimization",
+          "description": "Performance tuning and optimization"
+        }
+      ]
+    }
+  ]
+}

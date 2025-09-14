@@ -1,0 +1,244 @@
+{
+  "projects": [
+    {
+      "id": "kivo-vpn",
+      "title": "Kivo VPN",
+      "description": "A secure VPN application with advanced features for privacy and security, available on both iOS and Android platforms. Features include server selection, connection monitoring, and premium subscription management.",
+      "longDescription": "Kivo VPN is a comprehensive VPN solution that provides users with secure internet browsing and privacy protection. The app features a modern UI, multiple server locations, connection speed optimization, and integrated subscription management through RevenueCat.",
+      "category": "mobile",
+      "type": "Mobile Application",
+      "status": "published",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "GetX",
+        "RevenueCat",
+        "In-App Purchases"
+      ],
+      "platforms": ["iOS", "Android"],
+      "startDate": "2023-08-01",
+      "endDate": "2023-11-30",
+      "duration": "4 months",
+      "teamSize": 1,
+      "role": "Lead Flutter Developer",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.bbws.kivo&hl=en_IN",
+        "appStore": "https://apps.apple.com/in/app/kivo-vpn/id6503701785",
+        "github": null,
+        "demo": null,
+        "website": null
+      },
+      "features": [
+        "Secure VPN connection with multiple protocols",
+        "Global server network with 50+ locations",
+        "One-click connect functionality",
+        "Real-time connection monitoring",
+        "Premium subscription management",
+        "Kill switch for enhanced security",
+        "No-logs policy implementation",
+        "Cross-platform compatibility"
+      ],
+      "challenges": [
+        "Implementing secure VPN protocols",
+        "Managing subscription lifecycle",
+        "Optimizing connection speed",
+        "Ensuring cross-platform consistency"
+      ],
+      "results": [
+        "Successfully launched on both platforms",
+        "Achieved 4.5+ star rating",
+        "10,000+ downloads in first month",
+        "Positive user feedback on performance"
+      ]
+    },
+    {
+      "id": "ai-translator",
+      "title": "AI Translator & Motivation Quotes",
+      "description": "Translation application with offline capabilities using Google ML Kit, featuring daily motivation quotes and support for multiple languages.",
+      "longDescription": "A comprehensive translation app that combines the power of Google ML Kit for offline translation with daily motivational content. The app supports text, voice, and image translation across multiple languages while providing users with daily inspiration through curated quotes.",
+      "category": "mobile",
+      "type": "Mobile Application",
+      "status": "published",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Google ML Kit",
+        "Firebase",
+        "RevenueCat",
+        "Provider"
+      ],
+      "platforms": ["iOS", "Android"],
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-15",
+      "duration": "3.5 months",
+      "teamSize": 1,
+      "role": "Lead Flutter Developer",
+      "links": {
+        "playStore": null,
+        "appStore": "https://apps.apple.com/in/developer/blueberry-web-solutions-pvt-ltd/id1022756761",
+        "github": null,
+        "demo": null,
+        "website": null
+      },
+      "features": [
+        "Offline translation using Google ML Kit",
+        "Support for 100+ languages",
+        "Text, voice, and image translation",
+        "Daily motivational quotes",
+        "Conversation mode for real-time translation",
+        "Translation history and favorites",
+        "Dark/light theme support",
+        "Premium features with subscription"
+      ],
+      "challenges": [
+        "Implementing offline ML capabilities",
+        "Optimizing translation accuracy",
+        "Managing large language models",
+        "Creating engaging user experience"
+      ],
+      "results": [
+        "Achieved 95% translation accuracy",
+        "Featured in App Store",
+        "5,000+ active users",
+        "4.7 star average rating"
+      ]
+    },
+    {
+      "id": "pharmabag",
+      "title": "PharmaBag",
+      "description": "B2B platform for medicine wholesalers, facilitating connections between pharmacies and distributors with inventory management and order processing.",
+      "longDescription": "PharmaBag is a comprehensive B2B platform designed specifically for the pharmaceutical industry. It connects medicine wholesalers with pharmacies, providing tools for inventory management, order processing, and business analytics.",
+      "category": "mobile",
+      "type": "B2B Mobile Application",
+      "status": "published",
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "RESTful API",
+        "Provider",
+        "Firebase",
+        "Hive"
+      ],
+      "platforms": ["Android"],
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-30",
+      "duration": "4 months",
+      "teamSize": 2,
+      "role": "Flutter Developer",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.jaiswalpharma.pharmabag&hl=en",
+        "appStore": null,
+        "github": null,
+        "demo": null,
+        "website": null
+      },
+      "features": [
+        "Wholesale medicine catalog browsing",
+        "Real-time inventory management",
+        "Order placement and tracking",
+        "Business analytics dashboard",
+        "Secure payment integration",
+        "Multi-user role management",
+        "Offline data synchronization",
+        "Push notifications for orders"
+      ],
+      "challenges": [
+        "Complex B2B workflow implementation",
+        "Real-time inventory synchronization",
+        "Multi-role user management",
+        "Secure payment processing"
+      ],
+      "results": [
+        "Streamlined B2B operations",
+        "Reduced order processing time by 60%",
+        "Positive feedback from wholesalers",
+        "Successful market adoption"
+      ]
+    },
+    {
+      "id": "gtpl-broadband",
+      "title": "GTPL Broadband Provider",
+      "description": "Application for a broadband service provider, allowing users to manage their accounts, check usage, and pay bills with integrated customer support.",
+      "longDescription": "GTPL Broadband Provider app is a comprehensive customer service application that enables broadband users to manage their accounts, monitor usage, pay bills, and access customer support services. The app provides a seamless experience for broadband service management.",
+      "category": "mobile",
+      "type": "Service Provider App",
+      "status": "published",
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "gallery": [
+        "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Hive",
+        "RESTful API",
+        "Firebase",
+        "Provider"
+      ],
+      "platforms": ["iOS", "Android"],
+      "startDate": "2023-01-01",
+      "endDate": "2023-04-30",
+      "duration": "4 months",
+      "teamSize": 2,
+      "role": "Junior Flutter Developer",
+      "links": {
+        "playStore": null,
+        "appStore": null,
+        "github": null,
+        "demo": null,
+        "website": null
+      },
+      "features": [
+        "Account management and profile updates",
+        "Real-time usage monitoring",
+        "Bill payment integration",
+        "Service request submission",
+        "Customer support chat",
+        "Plan upgrade/downgrade options",
+        "Usage history and analytics",
+        "Notification management"
+      ],
+      "challenges": [
+        "Complex billing system integration",
+        "Real-time usage data synchronization",
+        "Multiple payment gateway integration",
+        "Customer support system implementation"
+      ],
+      "results": [
+        "Improved customer satisfaction by 45%",
+        "Reduced support calls by 30%",
+        "Streamlined bill payment process",
+        "Enhanced user engagement"
+      ]
+    }
+  ],
+  "statistics": {
+    "totalProjects": 4,
+    "publishedApps": 4,
+    "totalDownloads": "25,000+",
+    "averageRating": 4.6,
+    "platforms": ["iOS", "Android"],
+    "technologies": ["Flutter", "Dart", "Firebase", "GetX", "Provider"]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "personal": {
+    "name": "Amit Barai",
+    "title": "Flutter Developer",
+    "description": "Passionate Flutter developer with a knack for transforming ideas into successful mobile applications. With a solid foundation in computer science and ongoing research in IoT, I bring a creative, problem-solving approach to every project.",
+    "location": "North 24 P.G.S, Barasat, Kolkata - 700128",
+    "email": "amitbarai.imt@gmail.com",
+    "phone": "+916289641846",
+    "linkedin": "https://www.linkedin.com/in/amitbarai-developer/",
+    "startDate": "2023-02-01",
+    "avatar": "",
+    "resume": "#"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/amitbarai-developer/",
+    "email": "amitbarai.imt@gmail.com",
+    "phone": "+916289641846",
+    "github": "",
+    "twitter": "",
+    "instagram": ""
+  },
+  "seo": {
+    "title": "Amit Barai - Flutter Developer Portfolio",
+    "description": "Passionate Flutter Developer with 2+ years experience. Specialized in mobile app development, Firebase integration, and cross-platform solutions.",
+    "keywords": "Flutter Developer, Mobile App Development, Firebase, Dart, GetX, Provider, iOS, Android",
+    "author": "Amit Barai",
+    "url": ""
+  },
+  "theme": {
+    "primaryColor": "#6366f1",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#06b6d4",
+    "backgroundColor": "#0f172a",
+    "textColor": "#f8fafc"
+  }
+}

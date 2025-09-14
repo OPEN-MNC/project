@@ -1,0 +1,78 @@
+{
+  "education": [
+    {
+      "id": "mca-svu",
+      "degree": "Masters of Computer Application (MCA)",
+      "institution": "Swami Vivekananda University",
+      "location": "Kolkata, India",
+      "startDate": "2025-01-01",
+      "endDate": null,
+      "current": true,
+      "gpa": null,
+      "description": "Currently pursuing advanced studies in computer application with focus on IoT research and modern software development practices.",
+      "coursework": [
+        "Advanced Software Engineering",
+        "IoT and Embedded Systems",
+        "Mobile Application Development",
+        "Database Management Systems",
+        "Software Project Management",
+        "Research Methodology"
+      ],
+      "achievements": [
+        "Ongoing research in IoT applications",
+        "Focus on mobile technology advancement",
+        "Active participation in tech seminars"
+      ]
+    },
+    {
+      "id": "bca-ecmt",
+      "degree": "Bachelor of Computer Application (BCA)",
+      "institution": "Eminent College of Management And Technology",
+      "location": "Barasat, India",
+      "startDate": "2020-07-01",
+      "endDate": "2023-06-30",
+      "current": false,
+      "gpa": null,
+      "description": "Completed comprehensive undergraduate program in computer applications with strong foundation in programming and software development.",
+      "coursework": [
+        "Programming Fundamentals",
+        "Data Structures and Algorithms",
+        "Database Management",
+        "Web Development",
+        "Software Engineering",
+        "Computer Networks",
+        "Mobile Application Development",
+        "System Analysis and Design"
+      ],
+      "achievements": [
+        "Graduated with distinction",
+        "Completed multiple programming projects",
+        "Active member of coding club",
+        "Participated in technical competitions"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Flutter Development",
+      "issuer": "Google",
+      "date": "2023-01-15",
+      "credentialId": "FLUTTER-2023-001",
+      "url": "#"
+    },
+    {
+      "name": "Firebase Certified Developer",
+      "issuer": "Google Cloud",
+      "date": "2023-03-20",
+      "credentialId": "FIREBASE-2023-002",
+      "url": "#"
+    },
+    {
+      "name": "Mobile App Development",
+      "issuer": "Coursera",
+      "date": "2022-11-10",
+      "credentialId": "COURSERA-2022-003",
+      "url": "#"
+    }
+  ]
+}
